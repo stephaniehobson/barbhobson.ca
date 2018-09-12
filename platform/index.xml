@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Platform on Barb Hobson</title>
-    <link>https://barbhobson.ca/platform/</link>
+    <link>http://barbhobson.ca/platform/</link>
     <description>Recent content in Platform on Barb Hobson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     
-	<atom:link href="https://barbhobson.ca/platform/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://barbhobson.ca/platform/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
