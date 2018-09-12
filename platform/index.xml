@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Platform on Barb Hobson</title>
-    <link>http://barbhobson.ca/platform/</link>
-    <description>Recent content in Platform on Barb Hobson</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-ca</language>
-    
-	<atom:link href="http://barbhobson.ca/platform/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Platform on Barb Hobson</title><link>http://barbhobson.ca/platform/</link><description>Recent content in Platform on Barb Hobson</description><generator>Hugo -- gohugo.io</generator><language>en-ca</language><atom:link href="http://barbhobson.ca/platform/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
